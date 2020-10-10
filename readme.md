@@ -1,7 +1,7 @@
 ## Steps to run
 
 ### Pre-requisites
-Minikube and Kubectl
+Minikube ,Kubectl and skaffold
 
 1. Update /etc/hosts => 127.0.0.1 posts.com
 2. minikube start --vm=true
